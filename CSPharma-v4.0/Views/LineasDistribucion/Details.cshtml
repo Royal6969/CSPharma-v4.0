@@ -1,0 +1,54 @@
+﻿@model CSPharma_v4._0_DAL.Models.TdcCatLineasDistribucion
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TdcCatLineasDistribucion</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MdUuid)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MdUuid)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MdDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MdDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CodProvincia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CodProvincia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CodMunicipio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CodMunicipio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CodBarrio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CodBarrio)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.CodLinea">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

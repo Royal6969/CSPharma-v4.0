@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CSPharma_v4._0_DAL.Models.TdcCatEstadosPagoPedido>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MdUuid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MdDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DesEstadoPago)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MdUuid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MdDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DesEstadoPago)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CodEstadoPago">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CodEstadoPago">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CodEstadoPago">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

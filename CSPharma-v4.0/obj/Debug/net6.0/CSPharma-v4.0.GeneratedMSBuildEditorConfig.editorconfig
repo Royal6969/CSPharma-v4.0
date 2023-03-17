@@ -1,0 +1,144 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CSPharma_v4._0
+build_property.RootNamespace = CSPharma_v4._0
+build_property.ProjectDir = C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\CSPharma-v4.0\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\CSPharma-v4.0
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadoPedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadoPedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadoPedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadoPedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadoPedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosDevolucionPedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0Rldm9sdWNpb25QZWRpZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosDevolucionPedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0Rldm9sdWNpb25QZWRpZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosDevolucionPedido/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0Rldm9sdWNpb25QZWRpZG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosDevolucionPedido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0Rldm9sdWNpb25QZWRpZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosDevolucionPedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0Rldm9sdWNpb25QZWRpZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosEnvioPedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0VudmlvUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosEnvioPedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0VudmlvUGVkaWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosEnvioPedido/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0VudmlvUGVkaWRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosEnvioPedido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0VudmlvUGVkaWRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosEnvioPedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0VudmlvUGVkaWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosPagoPedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1BhZ29QZWRpZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosPagoPedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1BhZ29QZWRpZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosPagoPedido/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1BhZ29QZWRpZG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosPagoPedido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1BhZ29QZWRpZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/EstadosPagoPedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc1BhZ29QZWRpZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/LineasDistribucion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZWFzRGlzdHJpYnVjaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/LineasDistribucion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZWFzRGlzdHJpYnVjaW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/LineasDistribucion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZWFzRGlzdHJpYnVjaW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/LineasDistribucion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZWFzRGlzdHJpYnVjaW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/LineasDistribucion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZWFzRGlzdHJpYnVjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/csi21-sdiapos/Desktop/vs2022-workspace/CSPharma-v4.0/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yesisgbg76
